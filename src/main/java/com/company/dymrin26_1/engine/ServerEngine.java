@@ -1,4 +1,7 @@
-package com.company.dymrin26_1;
+package com.company.dymrin26_1.engine;
+
+import com.company.dymrin26_1.client_handler.ClientHandler;
+import com.company.dymrin26_1.client_handler.ClientHandlerRegistry;
 
 import java.io.IOException;
 import java.net.ServerSocket;

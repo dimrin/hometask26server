@@ -1,4 +1,5 @@
-package com.company.dymrin26_1;
+package com.company.dymrin26_1.client_handler;
+
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
