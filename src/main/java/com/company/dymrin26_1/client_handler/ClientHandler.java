@@ -1,4 +1,6 @@
-package com.company.dymrin26_1;
+package com.company.dymrin26_1.client_handler;
+
+import com.company.dymrin26_1.engine.ServerEngine;
 
 import java.io.*;
 import java.net.Socket;

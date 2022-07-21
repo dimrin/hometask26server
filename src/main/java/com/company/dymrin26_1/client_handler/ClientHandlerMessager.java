@@ -1,4 +1,4 @@
-package com.company.dymrin26_1;
+package com.company.dymrin26_1.client_handler;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
